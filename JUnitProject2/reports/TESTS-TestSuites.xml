@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="LAPTOP-LUAOCDJJ" id="0" name="CustomProjectRunner" package="testcases" skipped="1" tests="8" time="0.135" timestamp="2024-11-05T21:40:35">
+      <properties>
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\lib" />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="8" />
+
+          <property name="env.TERM" value="xterm" />
+
+          <property name="java.specification.version" value="15" />
+
+          <property name="env.USERPROFILE" value="C:\Users\rvarm" />
+
+          <property name="ant.project.name" value="JUnit Project" />
+
+          <property name="env.BUILD_TAG" value="jenkins-HybridFramework-8" />
+
+          <property name="env.ECLIPSE_WORKSPACE" value="C:\Users\rvarm\Selenium Course" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="env.EXECUTOR_NUMBER" value="1" />
+
+          <property name="test.classpath" value="C:\Program Files\JUnit\org.hamcrest.core_1.3.0.v20180420-1519.jar:C:\Program Files\JUnit\org.junit_4.13.0.v20200204-1500.jar" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="ant.file.type.JUnit Project" value="file" />
+
+          <property name="env.HUDSON_URL" value="http://localhost:8080/" />
+
+          <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+
+          <property name="java.vendor.url" value="https://java.oracle.com/" />
+
+          <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+
+          <property name="env.JENKINS_HOME" value="C:\Users\rvarm\.jenkins" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.SOPC_KIT_NIOS2" value="C:\altera\13.0sp1\nios2eds" />
+
+          <property name="test.src" value="C:\Users\rvarm\Selenium Course\JUnitProject2/src" />
+
+          <property name="DSTAMP" value="20241105" />
+
+          <property name="env.JOB_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/display/redirect" />
+
+          <property name="sun.boot.library.path" value="C:\Users\rvarm\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre\bin" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner testcases.CustomProjectRunner skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\rvarm\Selenium Course\JUnitProject2\reports\TEST-testcases.CustomProjectRunner.xml crashfile=C:\Users\rvarm\Selenium Course\JUnitProject2\junitvmwatcher11990104625669583011.properties propsfile=C:\Users\rvarm\Selenium Course\JUnitProject2\junit17289093018437652156.properties" />
+
+          <property name="jdk.debug" value="release" />
+
+          <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value=" -file build.xml compile run" />
+
+          <property name="java.version.date" value="2021-01-19" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java" />
+
+          <property name="java.home" value="C:\Users\rvarm\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre" />
+
+          <property name="basedir" value="C:\Users\rvarm\Selenium Course\JUnitProject2" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="java.vm.compressedOopsMode" value="32-bit" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="env._JAVACMD" value="java.exe" />
+
+          <property name="env.JENKINS_SERVER_COOKIE" value="49e9b80cf123ef7b" />
+
+          <property name="env.LOCALAPPDATA" value="C:\Users\rvarm\AppData\Local" />
+
+          <property name="env.USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-LUAOCDJJ" />
+
+          <property name="env.PROCESSOR_REVISION" value="8e0a" />
+
+          <property name="user.script" value="" />
+
+          <property name="env.PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\;C:\Program Files (x86)\AutoIt3\AutoItX" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 10, GenuineIntel" />
+
+          <property name="java.runtime.version" value="15.0.2+7-27" />
+
+          <property name="env.RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/8/display/redirect?page=artifacts" />
+
+          <property name="user.name" value="rvarm" />
+
+          <property name="env.PATH" value="C:\Users\rvarm\anaconda3\condabin;C:/Users/rvarm/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin/server;C:/Users/rvarm/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin;C:\app\rvarm\product\18.0.0\dbhomeXE\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\PROGRA~1\MATLAB\R2020a\bin;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\cygwin64\bin;C:\Users\rvarm\anaconda3\bin;C:\Users\rvarm\anaconda3\;C:\Users\rvarm\anaconda3\Library\mingw-w64\bin;C:\Users\rvarm\anaconda3\Library\usr\bin;C:\Users\rvarm\anaconda3\Library\bin;C:\Users\rvarm\anaconda3\Scripts;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.9.9\bin;C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java;C:\Program Files\WebDrivers;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;%cd%;C:\Users\rvarm\AppData\Local\Programs\Hyper\resources\bin;C:\Users\rvarm\AppData\Local\Microsoft\WindowsApps;C:\Users\rvarm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rvarm\AppData\Roaming\npm;C:\Users\rvarm\AppData\Local\GitHubDesktop\bin;C:\Program Files\apache-maven-3.9.9-src\apache-maven-3.9.9\apache-maven\src\bin;;C:\WINDOWS\system32;" />
+
+          <property name="env.DriverData" value="C:\Windows\System32\Drivers\DriverData" />
+
+          <property name="env.ProgramW6432" value="C:\Program Files" />
+
+          <property name="ws.home" value="C:\Users\rvarm\Selenium Course\JUnitProject2" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="env.BUILD_URL" value="http://localhost:8080/job/HybridFramework/8/" />
+
+          <property name="start.time" value="11/05/2024 04:40 p.m." />
+
+          <property name="env.PUBLIC" value="C:\Users\Public" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="env.JOB_URL" value="http://localhost:8080/job/HybridFramework/" />
+
+          <property name="env.COMPUTERNAME" value="LAPTOP-LUAOCDJJ" />
+
+          <property name="env.HOMEPATH" value="\Users\rvarm" />
+
+          <property name="env.APPDATA" value="C:\Users\rvarm\AppData\Roaming" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="env.ProgramData" value="C:\ProgramData" />
+
+          <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
+
+          <property name="java.io.tmpdir" value="C:\Users\rvarm\AppData\Local\Temp\" />
+
+          <property name="env.NODE_LABELS" value="master" />
+
+          <property name="java.version" value="15.0.2" />
+
+          <property name="env.WORKSPACE" value="C:\Users\rvarm\.jenkins\workspace\HybridFramework" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="env.PROCESSOR_LEVEL" value="6" />
+
+          <property name="env.QUARTUS_ROOTDIR" value="C:\altera\13.0sp1\quartus" />
+
+          <property name="env.TMP" value="C:\Users\rvarm\AppData\Local\Temp" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="env.BUILD_ID" value="8" />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15" />
+
+          <property name="env.RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/8/display/redirect?page=changes" />
+
+          <property name="env.JOB_NAME" value="HybridFramework" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.10.15 compiled on August 25 2024" />
+
+          <property name="java.library.path" value="C:\Users\rvarm\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\rvarm\anaconda3\condabin;C:/Users/rvarm/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin/server;C:/Users/rvarm/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin;C:\app\rvarm\product\18.0.0\dbhomeXE\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\PROGRA~1\MATLAB\R2020a\bin;C:\Program Files\MATLAB\R2020a\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\cygwin64\bin;C:\Users\rvarm\anaconda3\bin;C:\Users\rvarm\anaconda3\;C:\Users\rvarm\anaconda3\Library\mingw-w64\bin;C:\Users\rvarm\anaconda3\Library\usr\bin;C:\Users\rvarm\anaconda3\Library\bin;C:\Users\rvarm\anaconda3\Scripts;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.9.9\bin;C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Java;C:\Program Files\WebDrivers;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;%cd%;C:\Users\rvarm\AppData\Local\Programs\Hyper\resources\bin;C:\Users\rvarm\AppData\Local\Microsoft\WindowsApps;C:\Users\rvarm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rvarm\AppData\Roaming\npm;C:\Users\rvarm\AppData\Local\GitHubDesktop\bin;C:\Program Files\apache-maven-3.9.9-src\apache-maven-3.9.9\apache-maven\src\bin;;C:\WINDOWS\system32;;." />
+
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.LOGONSERVER" value="\\LAPTOP-LUAOCDJJ" />
+
+          <property name="ant.file.JUnit Project" value="C:\Users\rvarm\Selenium Course\JUnitProject2\build.xml" />
+
+          <property name="ws.jars" value="C:\Program Files\JUnit" />
+
+          <property name="env.HUDSON_HOME" value="C:\Users\rvarm\.jenkins" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="env.ChocolateyInstall" value="C:\ProgramData\chocolatey" />
+
+          <property name="env.HUDSON_SERVER_COOKIE" value="49e9b80cf123ef7b" />
+
+          <property name="env.BUILD_NUMBER" value="8" />
+
+          <property name="env.ERLANG_HOME" value="C:\Program Files\erl-24.0" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="env.RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/8/display/redirect?page=tests" />
+
+          <property name="java.class.path" value="C:\Users\rvarm\Selenium Course\JUnitProject2\build;C:\Program Files\JUnit\org.hamcrest.core_1.3.0.v20180420-1519.jar;C:\Program Files\JUnit\org.junit_4.13.0.v20200204-1500.jar;C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\lib\ant.jar;C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\lib\ant-junit.jar;C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\lib\ant-junit4.jar" />
+
+          <property name="env.SQLite" value="C:\Users\rvarm\SQLite" />
+
+          <property name="env.ChocolateyLastPathUpdate" value="132920919925093232" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="env.EFC_8776" value="1" />
+
+          <property name="env.CONDA_SHLVL" value="0" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+
+          <property name="test.dest" value="C:\Users\rvarm\Selenium Course\JUnitProject2/build" />
+
+          <property name="user.variant" value="" />
+
+          <property name="env.SystemRoot" value="C:\WINDOWS" />
+
+          <property name="os.name" value="Windows 10" />
+
+          <property name="env.RUN_DISPLAY_URL" value="http://localhost:8080/job/HybridFramework/8/display/redirect" />
+
+          <property name="java.vm.specification.version" value="15" />
+
+          <property name="env.CI" value="true" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="env.ECLIPSE_HOME" value="C:\Users\rvarm\eclipse\modeling-2020-12\eclipse" />
+
+          <property name="env.VS160COMCOMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\" />
+
+          <property name="user.country" value="CA" />
+
+          <property name="test.reportsDir" value="C:\Users\rvarm\Selenium Course\JUnitProject2\reports" />
+
+          <property name="env.USERDOMAIN" value="LAPTOP-LUAOCDJJ" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="user.home" value="C:\Users\rvarm" />
+
+          <property name="user.language" value="en" />
+
+          <property name="env.CONDA_EXE" value="C:\Users\rvarm\anaconda3\Scripts\conda.exe" />
+
+          <property name="env.CONDA_BAT" value="C:\Users\rvarm\anaconda3\condabin\conda.bat" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+
+          <property name="ant.java.version" value="15" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.HUDSON_COOKIE" value="62b8d41a-dfd5-4d8a-852a-8d792b4fb1a7" />
+
+          <property name="env.MAVEN_HOME" value="C:\Program Files\apache-maven-3.9.9" />
+
+          <property name="env.ANT_HOME" value="C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15" />
+
+          <property name="TSTAMP" value="1640" />
+
+          <property name="env.JENKINS_URL" value="http://localhost:8080/" />
+
+          <property name="env.windir" value="C:\WINDOWS" />
+
+          <property name="ANT" value="C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15/bin/ant.bat" />
+
+          <property name="ant.file" value="C:\Users\rvarm\Selenium Course\JUnitProject2\build.xml" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="env.=C:" value="C:\Users\rvarm\Selenium Course\JUnitProject2" />
+
+          <property name="os.version" value="10.0" />
+
+          <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+
+          <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+
+          <property name="ant.project.invoked-targets" value="compile,run" />
+
+          <property name="env._USE_CLASSPATH" value="no" />
+
+          <property name="env.NODE_NAME" value="master" />
+
+          <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+
+          <property name="env.BUILD_DISPLAY_NAME" value="#8" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.10.15-bin\apache-ant-1.10.15\lib\ant.jar" />
+
+          <property name="env.JUNIT_HOME" value="C:\Users\rvarm\eclipse-workspace" />
+
+          <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+
+          <property name="TODAY" value="November 5 2024" />
+
+          <property name="user.dir" value="C:\Users\rvarm\Selenium Course\JUnitProject2" />
+
+          <property name="env.USERNAME" value="rvarm" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="env.OneDriveConsumer" value="C:\Users\rvarm\OneDrive" />
+
+          <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+
+          <property name="env.WORKSPACE_TMP" value="C:\Users\rvarm\.jenkins\workspace\HybridFramework@tmp" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="java.vm.version" value="15.0.2+7-27" />
+
+          <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+
+          <property name="env.=ExitCode" value="00000001" />
+
+          <property name="env.TEMP" value="C:\Users\rvarm\AppData\Local\Temp" />
+
+          <property name="java.class.version" value="59.0" />
+
+          <property name="env.JOB_BASE_NAME" value="HybridFramework" />
+
+          <property name="env.OneDrive" value="C:\Users\rvarm\OneDrive" />
+
+          <property name="ant.project.default-target" value="usage" />
+
+      </properties>
+
+      <testcase classname="testcases.LoginTest" name="loginTest[0]" time="0.002" />
+
+      <testcase classname="testcases.LoginTest" name="loginTest[1]" time="0.0" />
+
+      <testcase classname="testcases.LoginTest" name="loginTest[2]" time="0.001" />
+
+      <testcase classname="testcases.LoginTest" name="loginTest[3]" time="0.0" />
+
+      <testcase classname="testcases.ShopMobilePhoneTest" name="test_a_searchForMobile" time="0.0" />
+
+      <testcase classname="testcases.ShopMobilePhoneTest" name="test_b_selectMobile" time="0.0" />
+
+      <testcase classname="testcases.ShopMobilePhoneTest" name="test_c_checkOut" time="0.006">
+          <skipped message="got: &lt;false&gt;, expected: is &lt;true&gt;" />
+
+      </testcase>
+
+      <testcase classname="testcases.ValidationsTest" name="validate" time="0.003" />
+
+      <system-out><![CDATA[U1, password, chrome
+U2, pass, chrome
+U3, password2, edge
+U4, password1234, chrome
+Searching for mobile Test case
+Selecting mobile
+Start
+End
+]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
